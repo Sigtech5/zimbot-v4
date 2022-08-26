@@ -33,17 +33,17 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['263774866501',''] //owner number +263774866501
+global.wame = ['263774866501'] 
+global.pemilik = ['263774866501'] //owner number +263774866501
+global.premium = ['263774866501'] //premium number +263774866501
+global.pengguna = 'Sig Tech' //username
+global.footer = 'SIG TECH BOT INC'
+global.botnma = 'SIG TECH BOT INC' //bot name
+global.botname = 'SIG TECH BOT'
+global.ownernma = 'SIG TECH' //owner name
+global.packname = 'SIG TECH' //sticker package name
+global.author = 'By SIG TECH Memes' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
@@ -74,13 +74,13 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    botAdmin: '*sig tech bot  must be admin first!*',
+    owner: '*this feature is only for sig tech owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment sig tech bot proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
     noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
 }
