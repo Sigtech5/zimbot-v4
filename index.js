@@ -160,7 +160,7 @@ body:"SUB SIG TECH OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail:wangu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
+mediaUrl:`https://y-`, 
 sourceUrl: ``,
 }}
 }
